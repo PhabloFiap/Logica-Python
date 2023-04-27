@@ -10,7 +10,7 @@ def contadivisores (n):
     return contagem    
 
 def ehprimo(n):
-    if contadivisores(n)==2
+    if contadivisores(n)==2:
         return True
     else:
         return False
